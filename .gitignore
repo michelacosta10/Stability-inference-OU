@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+# large generated data (rebuilt by run.sh synthetic)
+results/synthetic/sim_trajectories/
+results/synthetic/estimates/
+results/realdata/reconcile/real
+results/realdata/cache/
+# raw data not redistributed
+data/EEG_data/
+data/FINANCIAL_data/
+demo_output/
